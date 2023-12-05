@@ -1,0 +1,31 @@
+Thank you for NOT purchasing THIS SHIT! Rofus saved your day. Be sure to check for updates just go to unknowcheat and give rofus some +rep.
+
+** READ BELOW **
+
+You will need Python and a newer Nvidia GPU to run this.
+
+TO INSTALL PYTHON:
+Get Python 3.10.5 here: https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe
+- MAKE SURE YOU ADD TO PATH (Checkbox at beginning of installation)
+- IF ASKED, CLICK DISABLE PATH LENGTH LIMIT
+** If you can't figure out how to install python, watch this tutorial (IF YOU WANT MORE VERSIONS THEN JUST LET THIS GUY BE I THINK HE IS THE OWNER OF THIS BUT IF PEOPLE TALK TO HIM I WILL GET BANNED AND NOT GET LATER VERSIONS SO JUST WATCH THE VID AND KEEP GOING WITH THE HOW TO USE): https://www.youtube.com/watch?v=zoDUhkOSldI&ab_channel=Gannon
+
+TO INSTALL THE REQUIREMENTS:
+- Run the install_requirements.bat file and wait for the console window to close.
+
+RUNNING THE AIMBOT:
+- To run the script, double click the start.bat file.
+
+KEYBINDS:
+- Default is to hold right click.
+- To change, go to the aimbot.py file and on line 115, change 0x02, to any of the key codes here: https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+
+SENSITIVITY:
+- MAKE SURE YOUR X AND Y AXIS ARE THE SAME IN FORTNITE
+- ALSO MAKE SURE YOUR TARGETING AND SCOPED SENSITIVITY ARE THE SAME IN FORTNITE
+- If you ever need to change your sensitivity after the initial setup, delete the config.json file, and then run start.bat
+
+**IMPORTANT**
+- If your screen is NOT 1920x1080, open the aimbot.py file, and on lines 19 and 20, change to your screen resolution.
+
+

@@ -1,0 +1,20 @@
+VERSION 1.7
+
+
+Patch Notes:
+1. Changed screen capture method to BetterCam
+2. Removed is_target_locked function
+3. Added detection box visuals
+4. Added auto screen resolution (finds your screen res so you don't have to set it manually)
+5. Updated requirements.txt
+
+
+**IMPORTANT**
+1.7 uses BetterCam which NEEDS to be installed manually.
+You will need git: https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe
+After installing git, run this command: pip install git+https://github.com/RootKit-Org/BetterCam.git
+
+
+** Upcoming Updates **
+- Train AI on more images to make the aimbot even faster and more accurate.
+- More to come!
